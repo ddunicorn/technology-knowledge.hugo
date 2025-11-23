@@ -1,6 +1,6 @@
 ---
 title: "Open Street Map"
-draft: true
+draft: false
 showToc: false
 showReadingTime: false
 showWordCount: false
