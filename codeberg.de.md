@@ -12,11 +12,11 @@ tags:
 - Collaboration
 ---
 
-[Codeberg](https://codeberg.org/) ist eine gemeinnützige Open-Source Plattform für das Hosting von Git-Repositorys, Wikis und Issue Trackern. Sie basiert auf [Gitea](https://about.gitea.com/) und ist eine datenschutzkonforme Alternative zu kommerziellen Diensten.
+[Codeberg](https://codeberg.org/) ist eine gemeinnützige Open-Source Plattform für das Hosting von Git-Repositorys, Wikis und Issue Trackern. Sie basiert auf [Forgejo](https://forgejo.org/) und ist eine datenschutzkonforme Alternative zu kommerziellen Diensten.
 
 Die wichtigsten Punkte lassen sich wie folgt zusammenfassen:
 
-- der gesamte Stack ist Open Source und läuft unter der MIT-Lizenz. Der Dienst selbst wird von einer gemeinnützigen Organisation gehostet.
+- Der Dienst selbst wird von einer gemeinnützigen Organisation gehostet.
 - Es gibt kein Tracking, nur minimale Datenerfassung und strenge Einhaltung der DSGVO.
 - Es unterstützt Pull-Requests, Code-Reviews, CI/CD-Integrationen, Projektboards und Wiki-Seiten.
 
