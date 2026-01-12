@@ -5,7 +5,7 @@ showToc: false
 showReadingTime: false
 showWordCount: false
 ShowPostNavLinks: false
-summary: "Eine gemeinschaftsorientierte Open-Source Git-Hosting Plattform"
+summary: "Eine gemeinnützige Git-Hosting Plattform basierend auf forgejo"
 tags:
 - FOSS
 - Git

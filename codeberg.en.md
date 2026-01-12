@@ -5,7 +5,7 @@ showToc: false
 showReadingTime: false
 showWordCount: false
 ShowPostNavLinks: false
-summary: "A community‑driven, open‑source Git hosting platform"
+summary: "A non-profit git hosting platform based on forgejo"
 tags:
 - FOSS
 - Git
