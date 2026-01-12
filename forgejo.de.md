@@ -5,7 +5,7 @@ showToc: false
 showReadingTime: false
 showWordCount: false
 ShowPostNavLinks: false
-summary: "A community‑maintained, open‑source Git forge"
+summary: "Demokratisch entwickelte Open-Source Softwareentwicklungsplattform "
 tags:
 - FOSS
 - Git
