@@ -16,6 +16,6 @@ tags:
 
 Key highlights:
 
-– released under the GPLv3+ license, with all code publicly available for audit and contribution
-– supports pull requests, code reviews, project boards, built‑in CI, LDAP/OAuth authentication
-– easy to deploy via Docker, binary releases or package managers, which give you full control over data and infrastructure
+- released under the GPLv3+ license, with all code publicly available for audit and contribution
+- supports pull requests, code reviews, project boards, built‑in CI, LDAP/OAuth authentication
+- easy to deploy via Docker, binary releases or package managers, which give you full control over data and infrastructure

@@ -16,6 +16,6 @@ tags:
 
 Die wichtigsten Features:
 
-– veröffentlicht unter der GPLv3+-Lizenz: Code für Audits und Beiträge öffentlich zugänglich
-– unterstützt Pull-Requests, Code-Reviews, Projektboards, integrierte CI, LDAP/OAuth-Authentifizierung
-– einfache Bereitstellung über Docker, Binaries oder Paketmanager, wodurch man die volle Kontrolle über Daten und Infrastruktur beibehält
+- veröffentlicht unter der GPLv3+-Lizenz: Code für Audits und Beiträge öffentlich zugänglich
+- unterstützt Pull-Requests, Code-Reviews, Projektboards, integrierte CI, LDAP/OAuth-Authentifizierung
+- einfache Bereitstellung über Docker, Binaries oder Paketmanager, wodurch man die volle Kontrolle über Daten und Infrastruktur beibehält
