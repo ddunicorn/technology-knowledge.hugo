@@ -20,4 +20,3 @@ Die wichtigsten Punkte lassen sich wie folgt zusammenfassen:
 - Es gibt kein Tracking, nur minimale Datenerfassung und strenge Einhaltung der DSGVO.
 - Es unterstützt Pull-Requests, Code-Reviews, CI/CD-Integrationen, Projektboards und Wiki-Seiten.
 
-Codeberg ist eine gute Wahl für Teams und Einzelpersonen, die ein Open-Source Tool für die kollaborative Entwicklung wünschen.

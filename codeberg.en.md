@@ -20,4 +20,3 @@ The key points can be summarised as the following:
 - there is no tracking, minimal data collection and strong GDPR compliance
 - it supports pull requests, code review, CI/CD integrations, project boards and wiki pages
 
-Codeberg is a great choice for teams and individuals who want a self‑hosted‑feel with open‑source tooling for collaborative development.
