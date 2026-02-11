@@ -12,7 +12,7 @@ tags:
   - foss
 ---
 
-Tekton implementiert CI/CD-Pipelines (getriggerte, sequentielle, bedingte und parametrisierte Ausführung von Containern) auf Kubernetes. Tekton ist abstrakt und flexibel; Pipelines und ihre Bausteine können wiederverwendet und [geteilt](https://github.com/tektoncd/catalog) werden.
+[Tekton](https://tekton.dev) implementiert CI/CD-Pipelines (getriggerte, sequentielle, bedingte und parametrisierte Ausführung von Containern) auf Kubernetes. Tekton ist abstrakt und flexibel; Pipelines und ihre Bausteine können wiederverwendet und [geteilt](https://github.com/tektoncd/catalog) werden.
 
 - Pipelines bestehen aus Tasks (z. B. git clone), die sequentielle Steps definieren. Daten können zwischen Steps und Tasks weitergegeben werden.
 - Ein PipelineRun ist eine einzelne Ausführung einer Pipeline und definiert TaskRuns. Er stellt der Pipeline und den Tasks Laufzeit-Abhängigkeiten (z. B. Kubernetes Volumes und Service-Accounts) zur Verfügung und besitzt einen Zustand.
