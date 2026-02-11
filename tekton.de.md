@@ -18,4 +18,4 @@ tags:
 - Ein PipelineRun ist eine einzelne Ausführung einer Pipeline und definiert TaskRuns. Er stellt der Pipeline und den Tasks Laufzeit-Abhängigkeiten (zB. Kubernetes Volumes und Service-Accounts) zur Verfügung und besitzt einen Zustand.
 - EventListeners können PipelineRuns und TaskRuns aus parametrisierten Templates erstellen. Bindings definieren, wie Event-Daten (zB. aus einem HTTP-Request-Body) als Template-Argumente verwendet werden.
 
-Tekton ist FOSS und ein Graduated project der Continuous Delivery Foundation.
+Tekton ist FOSS und ein Graduated project der [Continuous Delivery Foundation](https://cd.foundation/).
