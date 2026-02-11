@@ -8,6 +8,7 @@ ShowPostNavLinks: false
 summary: "Regelung verteilter containerisierter Systeme"
 tags:
 - FOSS
+- kubernetes
 ---
 
 [Kubernetes](https://kubernetes.io/) ist ein erweiterbarer Regler zur Verwaltung containerisierter Prozesse, die auf mehreren virtuellen oder physischen Maschinen verteilt ausgeführt werden, mit einem Schwerpunkt auf hochverfügbare Webanwendungen. Der gewünschte Systemzustand wird in der Regel in YAML oder JSON beschrieben. Kubernetes stellt Abstraktionen für typischerweise benötigte Ressourcen und Konfigurationen wie Speicher oder Netzwerk-Routing bereit.
